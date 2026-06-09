@@ -149,6 +149,6 @@ telecom-churn/
 ---
 
 ##  Team
-* Ethar Elmahalawy - [GitHub Profile](https://github.com/emahalawy)
+* Ethar Elmahalawy - [GitHub Profile](https://github.com/ethar-salah7)
 * Amira Mohamed - [GitHub Profile](https://github.com/Amiramuhammed)
 * Alaa Mahdy - [GitHub Profile](https://github.com/Alaa303)
